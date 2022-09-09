@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://avkade.github.io/rsschool-cv/cv
