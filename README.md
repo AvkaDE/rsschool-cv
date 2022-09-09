@@ -1,1 +1,1 @@
-# https://avkade.github.io/rsschool-cv/cv
+https://avkade.github.io/rsschool-cv/
